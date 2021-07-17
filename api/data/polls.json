@@ -1,0 +1,27 @@
+[
+    {
+        "pollID": 0,
+        "userID": 1,
+        "visible": true,
+        "question": "what is 9+10?",
+        "multipleChoice": true,
+        "correct": 0,
+        "options": ["20", "18", "21", "19"],
+        "answers": [70, 3, 1, 6],
+        "revealed": false,
+
+        "detailedAnswers": []
+    },
+    {
+        "pollID": 1,
+        "userID": 2,
+        "visible": true,
+        "question": "what is 9+10?",
+        "multipleChoice": false,
+        "options": [],
+        "answers": ["worded response1", "worded response2"],
+        "revealed": false,
+
+        "detailedAnswers": []
+    }
+]

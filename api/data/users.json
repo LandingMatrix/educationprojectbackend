@@ -1,0 +1,20 @@
+[
+    {
+        "userID": 0,
+        "token": "tokenuser0",
+        "firstName": "Kean",
+        "lastName": "Zhou",
+        "email": "keanzhou2002@gmail.com",
+        "password": "y8ogfbvc67283gf289g780000042hb780g4302jm8d2399r32nm8",
+        "phone": "90247092421"
+    },
+    {
+        "userID": 1,
+        "token": "",
+        "firstName": "Jordan",
+        "lastName": "Huynh",
+        "email": "jordanhuynh2001@gmail.com",
+        "password": "enbijuhowbiuyoewbuiofbewnijupo23geuhybvyuew",
+        "phone": "756823912"
+    }
+]
